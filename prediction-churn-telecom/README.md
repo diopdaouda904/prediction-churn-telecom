@@ -63,3 +63,6 @@ prediction-churn-telecom/
 Telco Customer Churn, IBM. Source : [IBM/telco-customer-churn-on-icp4d](https://github.com/IBM/telco-customer-churn-on-icp4d).
 
 **Outils :** Python (pandas, scikit-learn, XGBoost, statsmodels, SHAP, matplotlib, seaborn), SQL (SQLite).
+
+mail : diopdaouda904@gmail.com
+
